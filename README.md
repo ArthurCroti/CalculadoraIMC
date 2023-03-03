@@ -3,7 +3,6 @@ O projeto de calculadora IMC que eu fiz usando as linguagens de programação HT
 
 A interface da aplicação é construída usando HTML e estilizada com CSS, apresentando um formulário para entrada de dados e um botão de cálculo. Quando o usuário insere seu peso e altura, o JavaScript é usado para calcular o IMC e exibir o resultado na tela.
 
-Além disso, a calculadora IMC também inclui uma seção que informa sobre o significado dos valores de IMC e fornece recomendações de estilo de vida saudável com base no resultado obtido.
 
 O projeto foi hospedado no Github.
 
